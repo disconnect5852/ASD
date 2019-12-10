@@ -1,0 +1,118 @@
+<task>
+  <taskIndex>1</taskIndex>
+  <taskId>F57F7D94-4054-4BA6-A699-8C91471E54B4</taskId>
+  <consentId>15364483-7BF9-4404-890B-380D732C6CBA</consentId>
+  <transactionId>190530S5CL97</transactionId>
+  <taskStatus>pending</taskStatus>
+  <taskOpenDate>2019-05-30T13:40:36.547</taskOpenDate>
+  <expirationDate>2019-07-29T13:40:36.560</expirationDate>
+  <userId>150956</userId>
+  <summary>
+?	R?gz?t?s id?pontja: 2019-05-30 13:40:36.553
+?	J?v?hagy?si lehet?s?g utols? id?pontja: 2019-07-29 13:40:36.56
+?	Megb?z?s t?pusa: 
+?	?sszeg/ Devizanem: 0 Ft
+?	Szolg?ltat? neve: 
+?	Jogosult neve: 
+</summary>
+  <summary_en>
+?	Creation date: 2019-05-30 13:40:36.553
+?	Last date for approval: 2019-07-29 13:40:36.56
+?	Type of order: 
+?	Amount / Currency: 0 Ft
+?	Name of service provider: 
+?	Recipient name: 
+</summary_en>
+  <description>
+?	Megb?z?s t?pusa: 
+?	?rintett sz?mlasz?m: 01N000000000
+?	R?gz?t?s id?pontja: 2019-05-30 13:40:36.553
+?	J?v?hagy?si lehet?s?g utols? id?pontja: 2019-07-29 13:40:36.56
+?	Szolg?ltat? neve: 
+?	K?r?s azonos?t?: 
+?	Enged?ly: J?v?hagy?s?val ?n feljogos?tja a szolg?ltat?t a k?r?s v?grehajt?s?ra. Tov?bb? a szolg?ltat? enged?lyt kap arra, hogy a j?v?hagy?st k?vet? 14 napig a sz?mla adatait lek?rdezze.
+</description>
+  <description_en>
+?	Type of order: Account information access request
+?	Source payment account number: 01N000000000
+?	Creation date: 2019-05-30 13:40:36.553
+?	Last date for approval: 2019-07-29 13:40:36.56
+?	Name of service provider: 
+?	Request ID: 
+?	Permission: With your approval, you will authorize the service provider to execute the request. Furthermore, the service provider will be authorized to get your account details for 14 days after approval.
+</description_en>
+  <relatedRequest>
+    <request type="initiateConsentRequest" />
+  </relatedRequest>
+  <targetType>IBAN</targetType>
+  <targetId>HU42123445677890432187656789</targetId>
+  <receivedDate>2019-05-30T13:40:36.547</receivedDate>
+  <requestStatus>pending</requestStatus>
+  <requestType>ACCS</requestType>
+  <thirdPartyName>Pr?ba CN Bt.</thirdPartyName>
+  <signer>
+    <feeCalculationAllowed>1</feeCalculationAllowed>
+    <signerId>150956</signerId>
+    <signerName>NAGY MÉLYKÚTI EDIT</signerName>
+    <signRoleType>E</signRoleType>
+  </signer>
+</task>
+<task>
+  <taskIndex>2</taskIndex>
+  <taskId>ADBFE00C-E62A-460E-A9C1-98FC9F31BFAC</taskId>
+  <consentId>15364483-7BF9-4404-890B-380D732C6CBA</consentId>
+  <transactionId>190530S5CL97</transactionId>
+  <taskStatus>pending</taskStatus>
+  <taskOpenDate>2019-05-30T13:40:36.547</taskOpenDate>
+  <expirationDate>2019-07-29T13:40:36.560</expirationDate>
+  <userId>150957</userId>
+  <summary>
+?	R?gz?t?s id?pontja: 2019-05-30 13:40:36.553
+?	J?v?hagy?si lehet?s?g utols? id?pontja: 2019-07-29 13:40:36.56
+?	Megb?z?s t?pusa: 
+?	?sszeg/ Devizanem: 0 Ft
+?	Szolg?ltat? neve: 
+?	Jogosult neve: 
+</summary>
+  <summary_en>
+?	Creation date: 2019-05-30 13:40:36.553
+?	Last date for approval: 2019-07-29 13:40:36.56
+?	Type of order: 
+?	Amount / Currency: 0 Ft
+?	Name of service provider: 
+?	Recipient name: 
+</summary_en>
+  <description>
+?	Megb?z?s t?pusa: 
+?	?rintett sz?mlasz?m: 01N000000000
+?	R?gz?t?s id?pontja: 2019-05-30 13:40:36.553
+?	J?v?hagy?si lehet?s?g utols? id?pontja: 2019-07-29 13:40:36.56
+?	Szolg?ltat? neve: 
+?	K?r?s azonos?t?: 
+?	Enged?ly: J?v?hagy?s?val ?n feljogos?tja a szolg?ltat?t a k?r?s v?grehajt?s?ra. Tov?bb? a szolg?ltat? enged?lyt kap arra, hogy a j?v?hagy?st k?vet? 14 napig a sz?mla adatait lek?rdezze.
+</description>
+  <description_en>
+?	Type of order: Account information access request
+?	Source payment account number: 01N000000000
+?	Creation date: 2019-05-30 13:40:36.553
+?	Last date for approval: 2019-07-29 13:40:36.56
+?	Name of service provider: 
+?	Request ID: 
+?	Permission: With your approval, you will authorize the service provider to execute the request. Furthermore, the service provider will be authorized to get your account details for 14 days after approval.
+</description_en>
+  <relatedRequest>
+    <request type="initiateConsentRequest" />
+  </relatedRequest>
+  <targetType>IBAN</targetType>
+  <targetId>HU42123445677890432187656789</targetId>
+  <receivedDate>2019-05-30T13:40:36.547</receivedDate>
+  <requestStatus>pending</requestStatus>
+  <requestType>ACCS</requestType>
+  <thirdPartyName>Pr?ba CN Bt.</thirdPartyName>
+  <signer>
+    <feeCalculationAllowed>1</feeCalculationAllowed>
+    <signerId>150957</signerId>
+    <signerName>JUHÁSZ MIHÁLY</signerName>
+    <signRoleType>E</signRoleType>
+  </signer>
+</task>
