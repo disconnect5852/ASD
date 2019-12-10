@@ -75,9 +75,9 @@ public class Tibizator {
 						// itt kell valahogy valamit kitalálni, hogy mit, mire cseréljen, és számozzon
 						String[] sajt = expression.getTextContent().split("_");
 						if (sajt.length > 3) {
-							expression.setTextContent(sajt[0] + "_" + sajt[sajt.length - 3] + "_" + secu + "_STEP" + counter);
+							expression.setTextContent(sajt[0] + "_" + sajt[sajt.length - 3] + "_" + secu + "_STEP" + counter+"')");
 						} else {
-							expression.setTextContent(sajt[0] + "_" + secu + "_STEP" + counter);
+							expression.setTextContent(sajt[0] + "_" + secu + "_STEP" + counter+"')");
 						}
 						counter++;
 						// expression.setTextContent(sajt[0]+"_"+secu+"_"+sajt[sajt.length-1]);
